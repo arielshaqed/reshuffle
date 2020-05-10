@@ -1,3 +1,6 @@
+Backup fork of some Open-Source bits of Binaris RESHUFFLE. The
+original README follows. (It was a blast!) 
+
 # We have terminated the backend for this project.  Old Reshuffle projects can not longer be deployed.
 
 [![CircleCI](https://circleci.com/gh/reshufflehq/reshuffle.svg?style=svg)](https://circleci.com/gh/reshufflehq/reshuffle.svg?style=svg)
